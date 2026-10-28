@@ -1,0 +1,457 @@
+{
+  "edition": "IFAB Laws of the Game 2025/26",
+  "lastChecked": "2026-10-28",
+  "count": 30,
+  "questions": [
+    {
+      "id": "q001",
+      "law": 1,
+      "lawName": "The Field of Play",
+      "question": "How far from the goal line is the penalty mark?",
+      "options": [
+        "9.15 m",
+        "11 m",
+        "12 yards",
+        "16.5 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "The mark sits 11 metres from the midpoint between the posts.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q002",
+      "law": 1,
+      "lawName": "The Field of Play",
+      "question": "How wide is a full-size goal, measured between the inside of the posts?",
+      "options": [
+        "6.40 m",
+        "7.32 m",
+        "8.00 m",
+        "7.00 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "The posts are 7.32 metres apart, and the crossbar is 2.44 metres above the ground.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q003",
+      "law": 1,
+      "lawName": "The Field of Play",
+      "question": "How high is the crossbar above the ground?",
+      "options": [
+        "2.24 m",
+        "2.44 m",
+        "2.64 m",
+        "2.40 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "The lower edge of the crossbar is 2.44 metres from the ground.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q004",
+      "law": 1,
+      "lawName": "The Field of Play",
+      "question": "How far does the goal area extend into the field from each goalpost?",
+      "options": [
+        "5.5 m",
+        "9.15 m",
+        "11 m",
+        "16.5 m"
+      ],
+      "answerIndex": 0,
+      "explanation": "The goal area lines run 5.5 metres into the field from each post.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q005",
+      "law": 1,
+      "lawName": "The Field of Play",
+      "question": "How far does the penalty area extend into the field from each goalpost?",
+      "options": [
+        "5.5 m",
+        "11 m",
+        "16.5 m",
+        "18 m"
+      ],
+      "answerIndex": 2,
+      "explanation": "The penalty area lines run 16.5 metres into the field from each post.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q006",
+      "law": 1,
+      "lawName": "The Field of Play",
+      "question": "What is the radius of the centre circle?",
+      "options": [
+        "5 m",
+        "9.15 m",
+        "10 m",
+        "11 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "The centre circle has a radius of 9.15 metres, the same as the distance opponents must keep at a free kick.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q007",
+      "law": 2,
+      "lawName": "The Ball",
+      "question": "Which circumference range is allowed for a size 5 match ball?",
+      "options": [
+        "58 to 60 cm",
+        "63 to 65 cm",
+        "68 to 70 cm",
+        "72 to 75 cm"
+      ],
+      "answerIndex": 2,
+      "explanation": "A match ball is spherical with a circumference of 68 to 70 cm.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q008",
+      "law": 3,
+      "lawName": "The Players",
+      "question": "What is the smallest number of players a team may have on the field for a match to start or continue?",
+      "options": [
+        "5",
+        "7",
+        "8",
+        "9"
+      ],
+      "answerIndex": 1,
+      "explanation": "A match cannot start or continue if either team has fewer than seven players.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q009",
+      "law": 3,
+      "lawName": "The Players",
+      "question": "Can an outfield player swap places with the goalkeeper?",
+      "options": [
+        "Never",
+        "Yes, if the referee is told and play is stopped",
+        "Yes, at any time without telling anyone",
+        "Only at half-time"
+      ],
+      "answerIndex": 1,
+      "explanation": "Any player can take over as goalkeeper if the referee is told first and play is stopped.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q010",
+      "law": 4,
+      "lawName": "The Players' Equipment",
+      "question": "Which item is compulsory for every player?",
+      "options": [
+        "Gloves",
+        "Shinguards",
+        "Headband",
+        "Captain armband"
+      ],
+      "answerIndex": 1,
+      "explanation": "Shirt with sleeves, shorts, socks, shinguards and footwear are the basic compulsory equipment.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q011",
+      "law": 5,
+      "lawName": "The Referee",
+      "question": "How does the Laws treat the referee's decision about a fact of play, such as a goal being scored?",
+      "options": [
+        "It can be changed by the captains",
+        "It is final",
+        "It goes to video review in every match",
+        "It needs the assistant referee to agree"
+      ],
+      "answerIndex": 1,
+      "explanation": "Decisions on facts connected with play are final, subject to the rules for restarting play.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q012",
+      "law": 7,
+      "lawName": "The Duration of the Match",
+      "question": "How long is each half in a standard match?",
+      "options": [
+        "30 minutes",
+        "40 minutes",
+        "45 minutes",
+        "50 minutes"
+      ],
+      "answerIndex": 2,
+      "explanation": "A standard match has two equal halves of 45 minutes, unless the competition rules agree otherwise.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q013",
+      "law": 7,
+      "lawName": "The Duration of the Match",
+      "question": "What is the maximum length of the half-time interval, unless competition rules say otherwise?",
+      "options": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "answerIndex": 2,
+      "explanation": "Players are entitled to an interval of up to 15 minutes.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q014",
+      "law": 8,
+      "lawName": "The Start and Restart of Play",
+      "question": "Can a goal be scored directly from the kick-off?",
+      "options": [
+        "No, never",
+        "Yes, against the opponents",
+        "Only after a second touch",
+        "Only in extra time"
+      ],
+      "answerIndex": 1,
+      "explanation": "A goal may be scored directly against the opponents from the kick-off.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q015",
+      "law": 9,
+      "lawName": "The Ball In and Out of Play",
+      "question": "When is the ball out of play over the touchline?",
+      "options": [
+        "When any part of it crosses the line",
+        "When the whole ball crosses the line on the ground or in the air",
+        "When the referee blows the whistle",
+        "When it touches the line"
+      ],
+      "answerIndex": 1,
+      "explanation": "The whole ball must cross the line completely, on the ground or in the air.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q016",
+      "law": 10,
+      "lawName": "Determining the Outcome of a Match",
+      "question": "What must happen for a goal to count?",
+      "options": [
+        "Any part of the ball crosses the goal line",
+        "The whole ball passes over the goal line between the posts and under the crossbar, with no offence",
+        "The ball hits the net",
+        "The goalkeeper touches the ball"
+      ],
+      "answerIndex": 1,
+      "explanation": "The whole ball must pass over the line between the posts and under the bar, and no offence may have been committed by the scoring team.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q017",
+      "law": 11,
+      "lawName": "Offside",
+      "question": "Can a player be offside in their own half?",
+      "options": [
+        "Yes, if the defender is far away",
+        "No",
+        "Only from a long pass",
+        "Only in the second half"
+      ],
+      "answerIndex": 1,
+      "explanation": "A player is not in an offside position in their own half of the field.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q018",
+      "law": 11,
+      "lawName": "Offside",
+      "question": "Is being in an offside position an offence on its own?",
+      "options": [
+        "Yes, always",
+        "No, the player must also become involved in active play",
+        "Yes, if past the last defender",
+        "Only for strikers"
+      ],
+      "answerIndex": 1,
+      "explanation": "The player is penalised only for becoming involved in active play from an offside position.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q019",
+      "law": 11,
+      "lawName": "Offside",
+      "question": "From which restart can a player NOT be penalised for offside?",
+      "options": [
+        "Free kick",
+        "Throw-in",
+        "Penalty kick",
+        "Dropped ball"
+      ],
+      "answerIndex": 1,
+      "explanation": "There is no offside offence directly from a goal kick, throw-in or corner kick.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q020",
+      "law": 12,
+      "lawName": "Fouls and Misconduct",
+      "question": "What does a yellow card show?",
+      "options": [
+        "A sending-off",
+        "A caution",
+        "An advantage",
+        "A substitution"
+      ],
+      "answerIndex": 1,
+      "explanation": "A yellow card shows a caution. A red card shows a sending-off.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q021",
+      "law": 12,
+      "lawName": "Fouls and Misconduct",
+      "question": "A defender deliberately handles the ball inside their own penalty area. What restart follows?",
+      "options": [
+        "Indirect free kick",
+        "Penalty kick",
+        "Corner kick",
+        "Dropped ball"
+      ],
+      "answerIndex": 1,
+      "explanation": "A handball offence by a defender inside their own penalty area gives a penalty kick.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q022",
+      "law": 12,
+      "lawName": "Fouls and Misconduct",
+      "question": "What is the usual sanction for stopping an obvious goal-scoring opportunity by deliberate handball?",
+      "options": [
+        "Yellow card",
+        "Red card",
+        "Warning only",
+        "No card"
+      ],
+      "answerIndex": 1,
+      "explanation": "Denying a goal or obvious goal-scoring opportunity by deliberate handball is a sending-off offence.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q023",
+      "law": 13,
+      "lawName": "Free Kicks",
+      "question": "How far must opponents stand from the ball at a free kick?",
+      "options": [
+        "5 m",
+        "7 m",
+        "9.15 m",
+        "11 m"
+      ],
+      "answerIndex": 2,
+      "explanation": "Opponents must be at least 9.15 metres from the ball until it is in play.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q024",
+      "law": 13,
+      "lawName": "Free Kicks",
+      "question": "A player kicks a direct free kick straight into their own goal. What is awarded?",
+      "options": [
+        "Goal to the opponents",
+        "Corner kick to the opponents",
+        "Goal kick",
+        "Retake"
+      ],
+      "answerIndex": 1,
+      "explanation": "An own goal from a direct free kick is not a goal. A corner kick goes to the opponents.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q025",
+      "law": 14,
+      "lawName": "The Penalty Kick",
+      "question": "During a penalty kick, what must the goalkeeper do until the ball is kicked?",
+      "options": [
+        "Stay on the goal line with at least part of one foot touching or level with it",
+        "Stand on the penalty mark",
+        "Stay still with both feet together",
+        "Stand outside the penalty area"
+      ],
+      "answerIndex": 0,
+      "explanation": "The goalkeeper must keep at least part of one foot on, or in line with, the goal line when the kick is taken.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q026",
+      "law": 14,
+      "lawName": "The Penalty Kick",
+      "question": "In which direction must the penalty taker kick the ball?",
+      "options": [
+        "Backwards",
+        "Forward",
+        "Either way",
+        "Sideways only"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ball must be kicked forward.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q027",
+      "law": 15,
+      "lawName": "The Throw-in",
+      "question": "A throw-in goes directly into the thrower’s own goal. What is awarded?",
+      "options": [
+        "Goal",
+        "Corner kick",
+        "Goal kick",
+        "Retake"
+      ],
+      "answerIndex": 1,
+      "explanation": "A goal cannot be scored directly against your own team from a throw-in, so a corner kick is given.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q028",
+      "law": 15,
+      "lawName": "The Throw-in",
+      "question": "A throw-in goes directly into the opponents’ goal. What is awarded?",
+      "options": [
+        "Goal",
+        "Goal kick",
+        "Corner kick",
+        "Retake"
+      ],
+      "answerIndex": 1,
+      "explanation": "A goal cannot be scored directly from a throw-in. A goal kick is given.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q029",
+      "law": 16,
+      "lawName": "The Goal Kick",
+      "question": "When is the ball in play at a goal kick?",
+      "options": [
+        "When it leaves the penalty area",
+        "When it is kicked and clearly moves",
+        "When the referee signals",
+        "When it touches another player"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ball is in play once it is kicked and clearly moves. It does not have to leave the penalty area.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    },
+    {
+      "id": "q030",
+      "law": 17,
+      "lawName": "The Corner Kick",
+      "question": "Can a goal be scored directly from a corner kick?",
+      "options": [
+        "No",
+        "Yes, against the opponents",
+        "Only if the goalkeeper touches it",
+        "Only in the second half"
+      ],
+      "answerIndex": 1,
+      "explanation": "A goal may be scored directly from a corner kick against the opponents.",
+      "edition": "IFAB Laws of the Game 2025/26"
+    }
+  ]
+}

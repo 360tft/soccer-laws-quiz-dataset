@@ -1,0 +1,12 @@
+{
+  "name": "soccer-laws-quiz-dataset",
+  "version": "0.1.0",
+  "description": "Original multiple-choice quiz questions on the Laws of the Game.",
+  "type": "module",
+  "license": "(MIT AND CC-BY-4.0)",
+  "scripts": {
+    "build": "node scripts/build.ts",
+    "test": "node --test test/*.test.ts"
+  },
+  "engines": { "node": ">=22.6" }
+}
