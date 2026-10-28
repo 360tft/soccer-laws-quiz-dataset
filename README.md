@@ -37,3 +37,6 @@ Train for the referee exam with [RefereeGPT](https://refereegpt.co/quiz?utm_sour
 - Scripts, tests and examples: MIT. See [LICENSE](LICENSE).
 - The Laws of the Game are published and owned by IFAB. This dataset is not endorsed by IFAB.
   Questions are written in our own words. Read the official Laws at theifab.com.
+
+---
+Made by [360TFT](https://360tft.com). Build practices and sessions with [FootballGPT](https://footballgpt.co?utm_source=github&utm_medium=open_source&utm_campaign=soccer-laws-quiz-dataset). Test your knowledge of the Laws with [RefereeGPT](https://refereegpt.co/quiz?utm_source=github&utm_medium=open_source&utm_campaign=soccer-laws-quiz-dataset).
